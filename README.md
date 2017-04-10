@@ -4,6 +4,8 @@ It is a simple iOS game which involves two modes i.e. single player as well as m
 
 The game displays two health bars for both the players and the one who is successful in exhausting the health, WINS. The game provides exciting characters as the game advances.
 
+This app was developed as a Final Year Project for my undergraduate degree.
+
 ### Technologies
 
 This app is developed using the following technologies:
